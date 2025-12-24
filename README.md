@@ -1,5 +1,3 @@
-# stats-fires
-
 # Objective 
 Do factors such as temperature, precipitation, wind speed, and seasonal patterns play a role in how frequent and severe wildfires occur? 
 
