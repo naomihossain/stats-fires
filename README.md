@@ -41,5 +41,14 @@ Correlation Analysis:
 * Fire size vs. wind speed → weak positive correlation.
 * Fire size vs. precipitation → almost no correlation (fires mostly occur without rainfall).
 
+# Conclusion
+Seasonal Patterns: Summer has the highest frequency in fires.
+
+Correlation Analysis: Weather (temperature and wind speed) influence wildfire size, but correlations are generally weak. 
+
+Regression Analysis: Temperature and wind speeds are significant positive predictors of wildfire size, but overall model explanatory power remains low.
+
+While temperature and wind speed play a role, they are not the only drivers of California wildfires; other factors such as vegetation, topography, and human activity are also important.
+
 Regression Analysis
 * Temperature vs. log fire size (Figure below): Using regression analysis, trend shows higher temperature associated with larger fires, but with high scatter → temperature matters but is not the sole determinant.
